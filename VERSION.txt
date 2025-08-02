@@ -1,0 +1,4 @@
+Discord Music Bot v3.0 - Fresh Start
+✅ دعم الروم الصوتي الكامل
+✅ أوامر عربية سهلة
+✅ جاهز للنشر على Render/Railway
